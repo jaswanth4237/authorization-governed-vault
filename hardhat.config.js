@@ -11,7 +11,7 @@ module.exports = {
   },
   networks: {
     localhost: {
-      url: "http://blockchain:8545"
+      url: "http://localhost:9545",
     }
   }
 };
