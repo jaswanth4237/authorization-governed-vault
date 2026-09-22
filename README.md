@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a **secure two-contract vault system** that separates **asset custody** from **permission validation**, reflecting real-world decentralized protocol architectures.
+This project implements  **secure two-contract vault system** that separates **asset custody** from **permission validation**, reflecting real-world decentralized protocol architectures.
 
 The system ensures that **fund withdrawals can only occur after a valid, one-time authorization is verified on-chain**, while maintaining replay protection, deterministic behavior, and strict trust boundaries.
 
